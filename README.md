@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlGokalmin
-- 🌱 I’m currently learning and enjoing it!
+- 🌱 I'm currently self learning Python and I love it!
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: mihai1379@yahoo.com
 
